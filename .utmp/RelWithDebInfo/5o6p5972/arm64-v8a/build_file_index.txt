@@ -1,0 +1,2 @@
+C:\Users\MightyEmmanuel's PC\Desktop\Mighty's Games Made\RealGroupVRHorrorGame\GroupVRHorror\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\MightyEmmanuel's PC\Desktop\Mighty's Games Made\RealGroupVRHorrorGame\GroupVRHorror\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
